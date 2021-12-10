@@ -1,8 +1,8 @@
 #!/bin/bash
-#test by sachin
 echo "enter the name of a file"
 read name
 #strings
+tested by mallikarjun
 while read line 
 do
 	echo "$line"
