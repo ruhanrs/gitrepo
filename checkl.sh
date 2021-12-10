@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "enter the name of a file"
 read name
+#strings
 while read line 
 do
 	echo "$line"
