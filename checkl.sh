@@ -1,4 +1,5 @@
 #!/bin/bash
+#test by sachin
 echo "enter the name of a file"
 read name
 while read line 
