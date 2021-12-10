@@ -1,4 +1,6 @@
 #!/bin/bash
+#test by sachin
+#test by Pavithra
 echo "enter the name of a file"
 read name
 #strings
