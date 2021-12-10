@@ -1,4 +1,5 @@
 #!/bin/bash
+#edit
 echo "enter the value N "
 read num
 mul=1
